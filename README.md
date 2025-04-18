@@ -31,8 +31,8 @@ This is a simple **Stone Paper Scissors (Rock Paper Scissors)** game built using
 
 ## 📂 Project Structure
 
-stone-paper-scissors/ 
 ```
+stone-paper-scissors/ 
   ├── index.html # Main HTML file
   ├── style.css # Stylesheet
   └── script.js # JavaScript logic
